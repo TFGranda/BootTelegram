@@ -199,7 +199,7 @@ def nlp_dbpedia(update, context):
         #print(w.text, w.pos_)
 
 if __name__ == '__main__':
-    updater = Updater(token="1852245381:AAGVgxLhVpduGLi3AKViWw9qqbnUdwBqw6I", use_context=True)
+    updater = Updater(token="1852245381:AAGVgxLhVpduGLi3AKViWw9qqbnUdwBqw6Ia97", use_context=True)
 
     dp = updater.dispatcher
     # -------------------------------------------------------
